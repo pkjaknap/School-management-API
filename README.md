@@ -7,7 +7,7 @@ The **School Management API** is a RESTful API that allows users to manage schoo
 ## Base URL
 
 ```
-https://school-management-api-yc3j.onrender.com/api
+https://school-management-api-yc3j.onrender.com/
 ```
 
 ## Endpoints
